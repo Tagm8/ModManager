@@ -37,8 +37,12 @@ cd sa_mod_manager_v1
 Planning support for more mods and fixing any bugs i find, please be patient and report any bugs you find.
 ModManager was built on Linux, but since it runs on python it can (on paper) run on anything.
 If you find any bugs specific to Windows (or Mac), be sure to let me know.
+The only thing(s) that are OS specific right now are the run.bat (windows) & run.sh (linux) files, other than that everything works on both OSes. Planning macOS support soon.
 
 CLEO's upstream documentation states that CLEO requires an ASI Loader and that its installer adds `cleo/`, `cleo.asi`, `bass.dll`, `vorbisHooked.dll`, etc., while overwriting `vorbisFile.dll`; the manager therefore backs up likely root conflicts before installation.
+
+
+> Note: the only AI generated code in this version is in the python file, spef. some of the instructions, GUI and code i couldnt figure out. Planning to change/remove them soon.
 
 ## Upstream projects
 
