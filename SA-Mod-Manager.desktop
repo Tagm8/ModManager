@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=ModManager
+Comment=Modern GTA San Andreas Mod Manager
+Exec=REPLACE_WITH_FULL_PATH/run.sh
+Terminal=false
+Categories=Game;Utility;
