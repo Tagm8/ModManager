@@ -1,6 +1,6 @@
-# SA Mod Manager 1.0
+# ModManager
 
-> Modern GTA San Andreas Mod Manager
+> A modern GTA San Andreas Mod Manager
 
 ## Features
 
