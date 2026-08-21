@@ -34,7 +34,9 @@ cd sa_mod_manager_v1
 
 ## Important
 
-The current release is a serious foundation, but it is not claiming to understand every arbitrary GTA SA mod on the internet. A production-quality catalog needs signed/verified manifests describing files, dependencies, conflicts, game versions and install rules.
+Planning support for more mods and fixing any bugs i find, please be patient and report any bugs you find.
+ModManager was built on Linux, but since it runs on python it can (on paper) run on anything.
+If you find any bugs specific to Windows (or Mac), be sure to let me know.
 
 CLEO's upstream documentation states that CLEO requires an ASI Loader and that its installer adds `cleo/`, `cleo.asi`, `bass.dll`, `vorbisHooked.dll`, etc., while overwriting `vorbisFile.dll`; the manager therefore backs up likely root conflicts before installation.
 
